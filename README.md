@@ -1,5 +1,6 @@
 # Livro de receitas 👨‍🍳
-Olá! Bem vindo ao meu livro de receitas.
+_Olá! <br> Bem vindo ao meu livro de receitas._
 
- - Strogonoof
+ - Strogonoof de frango
+ - Pavê
 
