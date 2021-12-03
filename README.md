@@ -6,7 +6,7 @@ Quero deixar claro que eu não sou cozinheiro, aqui eu coloquei algumas receitas
 Quem sabe você pode se inspirar e fazer uma das receitas que compartilho aqui.
 
 
-## 📖 Receitas 
+## 📖 Receitas de:
  - Strogonoof de Frango
  - Pavê de Biscoito Maizena
  - Café Cremoso
